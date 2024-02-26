@@ -57,7 +57,7 @@ export default function ProductDetails() {
       </div>
 
       <Link to={"/"} className="mx-auto table bg-[lightBlue] p-[10px]">
-        Back To Home
+        Back Home
       </Link>
     </>
   );
